@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nuno Sarmento Videos CPT\n"
+"POT-Creation-Date: 2017-08-10 23:16+0100\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en_GB\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:23
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:25
+msgid "Videos"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:24
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:26
+msgid "Video"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:27
+msgid "Add New"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:28
+msgid "Add New video"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:29
+msgid "New video"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:30
+msgid "Edit video"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:31
+msgid "View video"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:32
+msgid "All videos"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:33
+msgid "Search videos"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:34
+msgid "Parent videos:"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:35
+msgid "No videos found."
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:36
+msgid "No videos found in trash."
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:41
+msgid "Custom post type for videos"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:93
+msgid "Video subtitle"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:95
+msgid "Video description"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:97
+msgid "Video type"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:99
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:101
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:156
+msgid "URL videos examples:"
+msgstr ""
+
+#: ../includes/NS_YOUTUBE_VIDEOS_CPT_cpt.php:168
+msgid ""
+"Copy the shortcode and past it to a post or page alternative you can add "
+"this post by using the video icon on the page/post text editor toolbar."
+msgstr ""
